@@ -64,7 +64,7 @@ Lots of fancier tools
 Example in this repository
 --------------------------
 
-This repo contains an example node server with one-step deployment to a Ubuntu server. 
+This repo contains an example node app with one-step deployment to a Ubuntu server. 
 
     bin/deploy.sh origin/master
 
