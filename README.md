@@ -58,6 +58,8 @@ Lots of fancier tools
 
 - [Gogogo](http://github.com/idottv/gogogo) - simple deploys from I.TV
 - [Grunt](http://gruntjs.com/) - best tool for automating everything (replaces Make)
+- [Capistrano](https://github.com/capistrano/capistrano) - Older tool. Ruby config. 
+- [Travis CI](https://travis-ci.org/) - Great external build system / test runner. 
 
 Later on Down the Road
 ----------------------
@@ -65,6 +67,8 @@ Later on Down the Road
 There are no pure principles, except that you should reduce waste. Don't try to do everything up front. 
 
 [Continous Integration](http://en.wikipedia.org/wiki/Continuous_integration) - Automatically merges your code, runs tests, and deploys it somewhere. Requires good practices and full tests.
+
+[Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks) - Let you automatically do something when you commit or push. Also [Github](http://developer.github.com/v3/repos/hooks/) has really cool "turnkey" service hooks for lots of stuff. 
 
 
 Other Reading
