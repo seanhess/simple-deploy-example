@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Sean Hess
+[Sean Hess](http://seanhess.github.io)
 
 - Programmer and Entreprenur
 - CTO and Cofounder of I.TV
@@ -79,7 +79,7 @@ There are no pure principles, except that you should reduce waste. Don't try to 
 
 [Automated Testing](http://support.smartbear.com/articles/testcomplete/manager-overview/) - Done wisely will reduce errors and save time. 
 
-Static Typing is even more helpful than testing, especially with modern type systems like [Typescript](http://www.typescriptlang.org/)
+Static Typing is an even better investment than testing, especially with modern type systems like [Typescript](http://www.typescriptlang.org/)
 
 Other Reading
 -------------
