@@ -61,6 +61,13 @@ Lots of fancier tools
 - [Capistrano](https://github.com/capistrano/capistrano) - Older tool. Ruby config. 
 - [Travis CI](https://travis-ci.org/) - Great external build system / test runner. 
 
+Example in this repository
+--------------------------
+
+This repo contains an example node server with one-step deployment to a Ubuntu server. 
+
+    bin/deploy.sh origin/master
+
 Later on Down the Road
 ----------------------
 
