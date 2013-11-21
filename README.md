@@ -57,7 +57,7 @@ It doesn't have to be fancy. Just take your current process and automate it.
 Lots of fancier tools
 
 - [Gogogo](http://github.com/idottv/gogogo) - simple deploys from I.TV
-- [Grunt](http://gruntjs.com/) - best tool for automating everything (replaces Make)
+- [Grunt](http://gruntjs.com/) - best tool for automating everything (kind of like Make)
 - [Capistrano](https://github.com/capistrano/capistrano) - Older tool. Ruby config. 
 - [Travis CI](https://travis-ci.org/) - Great external build system / test runner. 
 
