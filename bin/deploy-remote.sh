@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 # this should be called with a commit name, like "master"
 commit=$1
 host=`hostname`
@@ -30,9 +28,7 @@ git fetch
 git reset --hard $commit
 npm install
 
-exit
-
-# start node server
+# Copy in the config and run the server
 sudo cp config/upstart.conf /etc/init/simple-deploy-example.conf
 sudo stop simple-deploy-example
 sudo start simple-deploy-example
