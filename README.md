@@ -77,6 +77,9 @@ There are no pure principles, except that you should reduce waste. Don't try to 
 
 [Git Hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks) - Let you automatically do something when you commit or push. Also [Github](http://developer.github.com/v3/repos/hooks/) has really cool "turnkey" service hooks for lots of stuff. 
 
+[Automated Testing](http://support.smartbear.com/articles/testcomplete/manager-overview/) - Done wisely will reduce errors and save time. 
+
+Static Typing is even more helpful than testing, especially with modern type systems like [Typescript](http://www.typescriptlang.org/)
 
 Other Reading
 -------------
@@ -88,4 +91,6 @@ Other Reading
 - [Continous Deployment in 5 easy steps](http://radar.oreilly.com/2009/03/continuous-deployment-5-eas.html)
 
 - [Lean Startup](http://theleanstartup.com/)
+
+
 
