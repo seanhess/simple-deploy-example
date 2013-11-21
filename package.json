@@ -1,0 +1,19 @@
+{
+  "name": "simple-deploy-example",
+  "version": "0.0.0",
+  "description": "Example",
+  "main": "server/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seanhess/simple-deploy-example.git"
+  },
+  "author": "Sean Hess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanhess/simple-deploy-example/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.4",
+    "connect": "~2.11.0"
+  }
+}
